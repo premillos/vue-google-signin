@@ -1,0 +1,33 @@
+{
+  "name": "vue-google-login-directive",
+  "version": "1.0.0",
+  "description": "pssgo <a411568765@gmail.com>",
+  "main": "dist/vue-google-signin.cjs.js",
+  "module": "dist/vue-google-signin.esm.js",
+  "browser": "dist/vue-google-signin.umd.js",
+  "scripts": {
+    "build": "rollup -c ./rollup.config.js"
+  },
+  "keywords": [
+    "vue3",
+    "vue-next",
+    "google",
+    "login",
+    "signin",
+    "signup",
+    "js",
+    "google-login",
+    "google-signIn"
+  ],
+  "author": "premillos",
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^22.0.0",
+    "@rollup/plugin-node-resolve": "^13.3.0",
+    "rollup": "^2.75.7",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
