@@ -2,7 +2,6 @@
 
 > A simple and lightweight google signin plugin using vue@3
 
-
 ## Geting Start
 ```shell
 npm install vue-google-signin -S
@@ -45,16 +44,14 @@ export default {
 ## Options
 | Property     | Type     | Required        | Description     |
 |--------------|----------|-----------------|-----------------|
-| params     | Object   | true       | google sign params. see[google doc](https://developers.google.com/identity/sign-in/web/reference#gapiauth2initparams) |
-| success | Function | false | google signin success callback | 
-| error | Function | false | google signin success callback | 
+| params     | Object   | true       | google sign params. see [google doc](https://developers.google.com/identity/sign-in/web/reference#gapiauth2initparams) |
 
 
 ## Methods
 | Property     | Type     | Required        | Description     |
 |--------------|----------|-----------------|-----------------|
 | success | Function | false | google signin success callback | 
-| error | Function | false | google signin success callback | 
+| error | Function | false | google error success callback | 
 
 
 ## License
