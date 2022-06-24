@@ -1,6 +1,6 @@
 {
   "name": "vue-google-signin",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "premillos <a411568765@gmail.com>",
   "main": "dist/vue-google-signin.cjs.js",
   "module": "dist/vue-google-signin.esm.js",
