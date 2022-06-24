@@ -1,6 +1,6 @@
 {
   "name": "vue-google-signin",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "A simple and lightweight google signin plugin using vue@3",
   "main": "dist/vue-google-signin.cjs.js",
   "module": "dist/vue-google-signin.esm.js",
