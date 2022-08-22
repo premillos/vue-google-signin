@@ -10,6 +10,14 @@ npm install vue-google-signin -S
 
 ## Usage
 
+```javascript
+import VueGoogleSignin from 'vue-google-signin'
+
+const app = createApp(App)
+app.use(VueGoogleSignin)
+
+```
+
 ```vue
 <template>
   <div>
